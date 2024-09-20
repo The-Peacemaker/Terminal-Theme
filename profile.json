@@ -1,0 +1,15 @@
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "backgroundImageOpacity": 0.19,
+            "backgroundImageStretchMode": "uniformToFill",
+            "colorScheme": "Banana Blueberry",
+            "font": 
+            {
+                "face": "DaddyTimeMono Nerd Font"
+            },
+            "opacity": 20,
+            "scrollbarState": "hidden",
+            "useAcrylic": true
+        },
