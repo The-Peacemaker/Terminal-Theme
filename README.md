@@ -1,6 +1,10 @@
 # Terminal-Theme
 Terminal theme based on dark,blur background theme with oh-my-posh
 
+Set Application Theme To Dark
+```
+SETTINGS --> APPEARENCE --> APPLICATION THEME --> DARK
+```
 Open JSON file from Terminal Settings
 EDIT JSON FILE Profile Section
 ```
@@ -49,3 +53,6 @@ Edit And Add Schemes
             "yellow": "#E6C62F"
         }, 
 ```
+Colour Scheme Source: 
+https://windowsterminalthemes.dev/?theme=Banana%20Blueberry
+
