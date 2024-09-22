@@ -58,3 +58,5 @@ Edit And Add Schemes
 Colour Scheme Source: 
 https://windowsterminalthemes.dev/?theme=Banana%20Blueberry
 
+<h1> Oh-my-posh Setup </h1>
+
