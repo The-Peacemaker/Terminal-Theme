@@ -1,7 +1,7 @@
 # Terminal-Theme
 Terminal theme based on dark,blur background theme with oh-my-posh
 
-Download The Provided FONT Files
+Download The [FONT](DaddyTimeMono) Files
 
 Set Application Theme To Dark
 ```
